@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **University works**
 
-- 🌱 I’m currently learning **ASP.NET C#, CSS, HTML, JavaScript and T-SQL.**
+- 🌱 Languajes **Spanish and English**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Piiily](https://github.com/Piiily)
 
@@ -15,6 +15,10 @@
 - 📍 Where I am **Buenos Aires, Argentina**
 
 - 📫 How to reach me **sofiapilarvitalevi@gmail.com**
+
+- 💚 Spanish CV [https://drive.google.com/file/d/1iPQbreHM7IgzfSxotE1e_EunEfyi2iMS/view?usp=sharing](https://drive.google.com/file/d/1iPQbreHM7IgzfSxotE1e_EunEfyi2iMS/view?usp=sharing)
+
+- 💛 English CV **https://drive.google.com/file/d/1cV4cgcGqDpZapnUx9OgYs6VcPkVLkIip/view?usp=sharing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
