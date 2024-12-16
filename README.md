@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **sofiapilarvitalevi@gmail.com**
 
-- 💚 Spanish CV [https://drive.google.com/file/d/1HghvEatt-u4BqGcu84l0ZOh1Zee-uS1q/view?usp=sharing](https://drive.google.com/file/d/1HghvEatt-u4BqGcu84l0ZOh1Zee-uS1q/view?usp=sharing)
+- 💚 Spanish CV https://drive.google.com/file/d/1UAsLq8jiXcEHX0mRBsPWgXyK2l1bEroN/view?usp=sharing
 
 - 💛 English CV **https://drive.google.com/file/d/10VXZlTO9lYe9iul9y77WbkqnPiKxq4Dt/view?usp=sharing**
 
